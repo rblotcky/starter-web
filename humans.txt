@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ron Blotcky  ron@git.training   @awesomerb
 
 # THANKS
 
